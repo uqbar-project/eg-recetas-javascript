@@ -1,0 +1,23 @@
+{
+  "name": "recetas-domain-javascript",
+  "version": "1.0.0-SNAPSHOT",
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha -R spec -t 50 test/*.test.js"
+  },
+  "description": "Ejemplo Mixins Recetas",
+  "keywords": ["PAIU",
+     "design",
+     "recetas",
+     "modeling",
+     "oop",
+     "mixins"
+  ],
+  "author": {
+    "name": "Fernando Dodino"
+  },
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "mocha": "~2.2.4",
+    "chai": "~2.2.0"
+  }
+}
